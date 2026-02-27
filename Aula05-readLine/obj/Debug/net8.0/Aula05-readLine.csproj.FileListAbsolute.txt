@@ -1,0 +1,15 @@
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula05-readLine\bin\Debug\net8.0\Aula05-readLine.exe
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula05-readLine\bin\Debug\net8.0\Aula05-readLine.deps.json
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula05-readLine\bin\Debug\net8.0\Aula05-readLine.runtimeconfig.json
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula05-readLine\bin\Debug\net8.0\Aula05-readLine.dll
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula05-readLine\bin\Debug\net8.0\Aula05-readLine.pdb
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula05-readLine\obj\Debug\net8.0\Aula05-readLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula05-readLine\obj\Debug\net8.0\Aula05-readLine.AssemblyInfoInputs.cache
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula05-readLine\obj\Debug\net8.0\Aula05-readLine.AssemblyInfo.cs
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula05-readLine\obj\Debug\net8.0\Aula05-readLine.csproj.CoreCompileInputs.cache
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula05-readLine\obj\Debug\net8.0\Aula05-readLine.sourcelink.json
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula05-readLine\obj\Debug\net8.0\Aula05-readLine.dll
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula05-readLine\obj\Debug\net8.0\refint\Aula05-readLine.dll
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula05-readLine\obj\Debug\net8.0\Aula05-readLine.pdb
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula05-readLine\obj\Debug\net8.0\Aula05-readLine.genruntimeconfig.cache
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula05-readLine\obj\Debug\net8.0\ref\Aula05-readLine.dll
