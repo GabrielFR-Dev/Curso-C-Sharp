@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MICRO\\OneDrive\\Documentos\\GitHub\\Curso-C-Sharp\\Aula04-concatenacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83F4FC5F-B937-4485-89C2-835B7E5002ED}|Aula04-concatenacao.csproj|c:\\users\\micro\\onedrive\\documentos\\github\\curso-c-sharp\\aula04-concatenacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F4FC5F-B937-4485-89C2-835B7E5002ED}|Aula04-concatenacao.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F4FC5F-B937-4485-89C2-835B7E5002ED}|Aula04-concatenacao.csproj|c:\\users\\micro\\onedrive\\documentos\\github\\curso-c-sharp\\aula04-concatenacao\\aula04-concatenacao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{83F4FC5F-B937-4485-89C2-835B7E5002ED}|Aula04-concatenacao.csproj|solutionrelative:aula04-concatenacao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aula04-concatenacao",
+              "DocumentMoniker": "C:\\Users\\MICRO\\OneDrive\\Documentos\\GitHub\\Curso-C-Sharp\\Aula04-concatenacao\\Aula04-concatenacao.csproj",
+              "RelativeDocumentMoniker": "Aula04-concatenacao.csproj",
+              "ToolTip": "C:\\Users\\MICRO\\OneDrive\\Documentos\\GitHub\\Curso-C-Sharp\\Aula04-concatenacao\\Aula04-concatenacao.csproj",
+              "RelativeToolTip": "Aula04-concatenacao.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-27T15:59:12.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MICRO\\OneDrive\\Documentos\\GitHub\\Curso-C-Sharp\\Aula04-concatenacao\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MICRO\\OneDrive\\Documentos\\GitHub\\Curso-C-Sharp\\Aula04-concatenacao\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T15:59:00.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

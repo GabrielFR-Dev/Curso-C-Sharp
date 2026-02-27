@@ -1,0 +1,15 @@
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula04-concatenacao\bin\Debug\net8.0\Aula04-concatenacao.exe
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula04-concatenacao\bin\Debug\net8.0\Aula04-concatenacao.deps.json
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula04-concatenacao\bin\Debug\net8.0\Aula04-concatenacao.runtimeconfig.json
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula04-concatenacao\bin\Debug\net8.0\Aula04-concatenacao.dll
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula04-concatenacao\bin\Debug\net8.0\Aula04-concatenacao.pdb
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula04-concatenacao\obj\Debug\net8.0\Aula04-concatenacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula04-concatenacao\obj\Debug\net8.0\Aula04-concatenacao.AssemblyInfoInputs.cache
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula04-concatenacao\obj\Debug\net8.0\Aula04-concatenacao.AssemblyInfo.cs
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula04-concatenacao\obj\Debug\net8.0\Aula04-concatenacao.csproj.CoreCompileInputs.cache
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula04-concatenacao\obj\Debug\net8.0\Aula04-concatenacao.sourcelink.json
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula04-concatenacao\obj\Debug\net8.0\Aula04-concatenacao.dll
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula04-concatenacao\obj\Debug\net8.0\refint\Aula04-concatenacao.dll
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula04-concatenacao\obj\Debug\net8.0\Aula04-concatenacao.pdb
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula04-concatenacao\obj\Debug\net8.0\Aula04-concatenacao.genruntimeconfig.cache
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula04-concatenacao\obj\Debug\net8.0\ref\Aula04-concatenacao.dll
