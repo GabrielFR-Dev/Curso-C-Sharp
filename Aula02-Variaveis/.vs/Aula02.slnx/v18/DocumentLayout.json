@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\MICRO\\OneDrive\\Documentos\\GitHub\\Curso-C-Sharp\\Aula02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A028A08-1DC4-4920-AB75-6A4F3B489EF0}|Aula02.csproj|c:\\users\\micro\\onedrive\\documentos\\github\\curso-c-sharp\\aula02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A028A08-1DC4-4920-AB75-6A4F3B489EF0}|Aula02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5ACC5501-2A52-E72C-2DC8-E31D7ADB5CE8}|Aula02-variaveis.csproj|c:\\users\\micro\\onedrive\\documentos\\github\\curso-c-sharp\\aula02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACC5501-2A52-E72C-2DC8-E31D7ADB5CE8}|Aula02-variaveis.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,9 +22,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MICRO\\OneDrive\\Documentos\\GitHub\\Curso-C-Sharp\\Aula02\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\MICRO\\OneDrive\\Documentos\\GitHub\\Curso-C-Sharp\\Aula02\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\MICRO\\OneDrive\\Documentos\\GitHub\\Curso-C-Sharp\\Aula02\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-27T13:31:42.216Z",
               "EditorCaption": ""
