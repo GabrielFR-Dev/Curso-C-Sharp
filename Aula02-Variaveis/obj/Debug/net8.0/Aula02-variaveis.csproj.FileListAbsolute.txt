@@ -1,0 +1,15 @@
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula02-Variaveis\bin\Debug\net8.0\Aula02-variaveis.exe
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula02-Variaveis\bin\Debug\net8.0\Aula02-variaveis.deps.json
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula02-Variaveis\bin\Debug\net8.0\Aula02-variaveis.runtimeconfig.json
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula02-Variaveis\bin\Debug\net8.0\Aula02-variaveis.dll
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula02-Variaveis\bin\Debug\net8.0\Aula02-variaveis.pdb
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula02-Variaveis\obj\Debug\net8.0\Aula02-variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula02-Variaveis\obj\Debug\net8.0\Aula02-variaveis.AssemblyInfoInputs.cache
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula02-Variaveis\obj\Debug\net8.0\Aula02-variaveis.AssemblyInfo.cs
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula02-Variaveis\obj\Debug\net8.0\Aula02-variaveis.csproj.CoreCompileInputs.cache
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula02-Variaveis\obj\Debug\net8.0\Aula02-variaveis.sourcelink.json
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula02-Variaveis\obj\Debug\net8.0\Aula02-variaveis.dll
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula02-Variaveis\obj\Debug\net8.0\refint\Aula02-variaveis.dll
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula02-Variaveis\obj\Debug\net8.0\Aula02-variaveis.pdb
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula02-Variaveis\obj\Debug\net8.0\Aula02-variaveis.genruntimeconfig.cache
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula02-Variaveis\obj\Debug\net8.0\ref\Aula02-variaveis.dll
