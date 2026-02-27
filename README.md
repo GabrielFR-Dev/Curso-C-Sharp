@@ -1,2 +1,2 @@
 # Curso-C-Sharp
-Repositorio desenolvido para Aulas de C# 
+Repositorio desenvolvido para Aulas de C# 
