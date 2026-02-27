@@ -1,0 +1,15 @@
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula03-constante\bin\Debug\net8.0\Aula03-constante.exe
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula03-constante\bin\Debug\net8.0\Aula03-constante.deps.json
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula03-constante\bin\Debug\net8.0\Aula03-constante.runtimeconfig.json
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula03-constante\bin\Debug\net8.0\Aula03-constante.dll
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula03-constante\bin\Debug\net8.0\Aula03-constante.pdb
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula03-constante\obj\Debug\net8.0\Aula03-constante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula03-constante\obj\Debug\net8.0\Aula03-constante.AssemblyInfoInputs.cache
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula03-constante\obj\Debug\net8.0\Aula03-constante.AssemblyInfo.cs
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula03-constante\obj\Debug\net8.0\Aula03-constante.csproj.CoreCompileInputs.cache
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula03-constante\obj\Debug\net8.0\Aula03-constante.sourcelink.json
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula03-constante\obj\Debug\net8.0\Aula03-constante.dll
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula03-constante\obj\Debug\net8.0\refint\Aula03-constante.dll
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula03-constante\obj\Debug\net8.0\Aula03-constante.pdb
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula03-constante\obj\Debug\net8.0\Aula03-constante.genruntimeconfig.cache
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula03-constante\obj\Debug\net8.0\ref\Aula03-constante.dll
