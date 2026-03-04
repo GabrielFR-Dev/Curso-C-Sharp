@@ -1,0 +1,7 @@
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula07-Condicao-if-else\bin\Debug\Aula07-Condicao-if-else.exe.config
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula07-Condicao-if-else\bin\Debug\Aula07-Condicao-if-else.exe
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula07-Condicao-if-else\bin\Debug\Aula07-Condicao-if-else.pdb
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula07-Condicao-if-else\obj\Debug\Aula07-Condicao-if-else.csproj.AssemblyReference.cache
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula07-Condicao-if-else\obj\Debug\Aula07-Condicao-if-else.csproj.CoreCompileInputs.cache
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula07-Condicao-if-else\obj\Debug\Aula07-Condicao-if-else.exe
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula07-Condicao-if-else\obj\Debug\Aula07-Condicao-if-else.pdb
