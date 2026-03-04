@@ -1,0 +1,7 @@
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula06-Readline-Conversao\bin\Debug\Aula06-Readline-Conversao.exe.config
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula06-Readline-Conversao\bin\Debug\Aula06-Readline-Conversao.exe
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula06-Readline-Conversao\bin\Debug\Aula06-Readline-Conversao.pdb
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula06-Readline-Conversao\obj\Debug\Aula06-Readline-Conversao.csproj.AssemblyReference.cache
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula06-Readline-Conversao\obj\Debug\Aula06-Readline-Conversao.csproj.CoreCompileInputs.cache
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula06-Readline-Conversao\obj\Debug\Aula06-Readline-Conversao.exe
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula06-Readline-Conversao\obj\Debug\Aula06-Readline-Conversao.pdb
