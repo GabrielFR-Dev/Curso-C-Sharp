@@ -1,0 +1,7 @@
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\tabuada\bin\Debug\tabuada.exe.config
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\tabuada\bin\Debug\tabuada.exe
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\tabuada\bin\Debug\tabuada.pdb
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\tabuada\obj\Debug\tabuada.csproj.AssemblyReference.cache
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\tabuada\obj\Debug\tabuada.csproj.CoreCompileInputs.cache
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\tabuada\obj\Debug\tabuada.exe
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\tabuada\obj\Debug\tabuada.pdb
