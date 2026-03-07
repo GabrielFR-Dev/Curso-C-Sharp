@@ -1,0 +1,7 @@
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Pratica-Orientacao-Objeto\bin\Debug\Pratica-Orientacao-Objeto.exe.config
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Pratica-Orientacao-Objeto\bin\Debug\Pratica-Orientacao-Objeto.exe
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Pratica-Orientacao-Objeto\bin\Debug\Pratica-Orientacao-Objeto.pdb
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Pratica-Orientacao-Objeto\obj\Debug\Pratica-Orientacao-Objeto.csproj.AssemblyReference.cache
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Pratica-Orientacao-Objeto\obj\Debug\Pratica-Orientacao-Objeto.csproj.CoreCompileInputs.cache
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Pratica-Orientacao-Objeto\obj\Debug\Pratica-Orientacao-Objeto.exe
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Pratica-Orientacao-Objeto\obj\Debug\Pratica-Orientacao-Objeto.pdb
