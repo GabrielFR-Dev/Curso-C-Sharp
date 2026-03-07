@@ -1,0 +1,7 @@
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula-Arrays-Introducao\bin\Debug\Aula-Arrays-Introducao.exe.config
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula-Arrays-Introducao\bin\Debug\Aula-Arrays-Introducao.exe
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula-Arrays-Introducao\bin\Debug\Aula-Arrays-Introducao.pdb
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula-Arrays-Introducao\obj\Debug\Aula-Arrays-Introducao.csproj.AssemblyReference.cache
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula-Arrays-Introducao\obj\Debug\Aula-Arrays-Introducao.csproj.CoreCompileInputs.cache
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula-Arrays-Introducao\obj\Debug\Aula-Arrays-Introducao.exe
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Aula-Arrays-Introducao\obj\Debug\Aula-Arrays-Introducao.pdb
