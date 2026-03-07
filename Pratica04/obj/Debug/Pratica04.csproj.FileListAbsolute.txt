@@ -1,0 +1,7 @@
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Pratica04\bin\Debug\Pratica04.exe.config
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Pratica04\bin\Debug\Pratica04.exe
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Pratica04\bin\Debug\Pratica04.pdb
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Pratica04\obj\Debug\Pratica04.csproj.AssemblyReference.cache
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Pratica04\obj\Debug\Pratica04.csproj.CoreCompileInputs.cache
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Pratica04\obj\Debug\Pratica04.exe
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Pratica04\obj\Debug\Pratica04.pdb
