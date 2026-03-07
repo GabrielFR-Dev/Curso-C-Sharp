@@ -12,6 +12,7 @@ namespace tabuada
         {
             while(true)
             {
+                Console.BackgroundColor = ConsoleColor.DarkBlue;
                 Console.Clear();
                 Console.WriteLine("|==================|");
                 Console.WriteLine("|SISTEMA DE TABUABA|");
@@ -22,12 +23,14 @@ namespace tabuada
 
                 if (int.TryParse(tabuada, out int num))
                 {
-                    
+                    Console.ForegroundColor = ConsoleColor.Green;
                     Console.WriteLine($"\nTabuda do {num} \n");
                     for (int i = 0; i <= 10; i++)
                     {
                         Console.WriteLine($"{num} X {i} = {num * i}");
                     }
+                    Console.ResetColor();
+                    Console.BackgroundColor = ConsoleColor.DarkBlue;
 
                     Console.WriteLine("\nPressione qualquer tecla para continuar...");
                     Console.ReadKey();
