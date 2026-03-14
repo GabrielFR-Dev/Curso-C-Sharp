@@ -1,0 +1,53 @@
+{
+  "version": 2,
+  "dgSpecHash": "GBsg8/2HQFE=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\MICRO\\OneDrive\\Documentos\\GitHub\\Curso-C-Sharp\\Login\\Login.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.WindowsDesktop.App.Ref. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "projectPath": "C:\\Users\\MICRO\\OneDrive\\Documentos\\GitHub\\Curso-C-Sharp\\Login\\Login.csproj",
+      "filePath": "C:\\Users\\MICRO\\OneDrive\\Documentos\\GitHub\\Curso-C-Sharp\\Login\\Login.csproj",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NETCore.App.Ref. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "projectPath": "C:\\Users\\MICRO\\OneDrive\\Documentos\\GitHub\\Curso-C-Sharp\\Login\\Login.csproj",
+      "filePath": "C:\\Users\\MICRO\\OneDrive\\Documentos\\GitHub\\Curso-C-Sharp\\Login\\Login.csproj",
+      "libraryId": "Microsoft.NETCore.App.Ref",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.AspNetCore.App.Ref. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "projectPath": "C:\\Users\\MICRO\\OneDrive\\Documentos\\GitHub\\Curso-C-Sharp\\Login\\Login.csproj",
+      "filePath": "C:\\Users\\MICRO\\OneDrive\\Documentos\\GitHub\\Curso-C-Sharp\\Login\\Login.csproj",
+      "libraryId": "Microsoft.AspNetCore.App.Ref",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NETCore.App.Host.win-x64. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "projectPath": "C:\\Users\\MICRO\\OneDrive\\Documentos\\GitHub\\Curso-C-Sharp\\Login\\Login.csproj",
+      "filePath": "C:\\Users\\MICRO\\OneDrive\\Documentos\\GitHub\\Curso-C-Sharp\\Login\\Login.csproj",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}
