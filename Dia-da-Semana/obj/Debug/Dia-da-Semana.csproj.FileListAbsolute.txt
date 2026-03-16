@@ -1,0 +1,7 @@
+C:\Users\Si_Aluno\Documents\GitHub\Curso-C-Sharp\Dia-da-Semana\bin\Debug\Dia-da-Semana.exe.config
+C:\Users\Si_Aluno\Documents\GitHub\Curso-C-Sharp\Dia-da-Semana\bin\Debug\Dia-da-Semana.exe
+C:\Users\Si_Aluno\Documents\GitHub\Curso-C-Sharp\Dia-da-Semana\bin\Debug\Dia-da-Semana.pdb
+C:\Users\Si_Aluno\Documents\GitHub\Curso-C-Sharp\Dia-da-Semana\obj\Debug\Dia-da-Semana.csproj.AssemblyReference.cache
+C:\Users\Si_Aluno\Documents\GitHub\Curso-C-Sharp\Dia-da-Semana\obj\Debug\Dia-da-Semana.csproj.CoreCompileInputs.cache
+C:\Users\Si_Aluno\Documents\GitHub\Curso-C-Sharp\Dia-da-Semana\obj\Debug\Dia-da-Semana.exe
+C:\Users\Si_Aluno\Documents\GitHub\Curso-C-Sharp\Dia-da-Semana\obj\Debug\Dia-da-Semana.pdb
