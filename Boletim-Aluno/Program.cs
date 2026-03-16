@@ -47,7 +47,7 @@ namespace Boletim_Aluno
                     Console.WriteLine($"O {nomeAluno} foi aprovado, PARABÉNS !!!");
 
                 }
-                else if (resultado > 4 && resultado < 6)
+                else if (resultado >= 4 && resultado < 6)
                 {
                     Console.WriteLine($"\nA média do {nomeAluno} é: {resultado}");
                     Console.WriteLine($"O {nomeAluno} ficou de recuperação estude mais !!!");
