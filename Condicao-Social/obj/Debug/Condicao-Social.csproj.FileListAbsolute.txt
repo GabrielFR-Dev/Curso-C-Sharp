@@ -1,0 +1,7 @@
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Condicao-Social\bin\Debug\Condicao-Social.exe.config
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Condicao-Social\bin\Debug\Condicao-Social.exe
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Condicao-Social\bin\Debug\Condicao-Social.pdb
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Condicao-Social\obj\Debug\Condicao-Social.csproj.AssemblyReference.cache
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Condicao-Social\obj\Debug\Condicao-Social.csproj.CoreCompileInputs.cache
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Condicao-Social\obj\Debug\Condicao-Social.exe
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Condicao-Social\obj\Debug\Condicao-Social.pdb
