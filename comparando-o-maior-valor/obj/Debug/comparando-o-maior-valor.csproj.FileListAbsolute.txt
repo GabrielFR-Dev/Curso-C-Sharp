@@ -1,0 +1,7 @@
+C:\Users\Si_Aluno\Documents\GitHub\Curso-C-Sharp\comparando-o-maior-valor\bin\Debug\comparando-o-maior-valor.exe.config
+C:\Users\Si_Aluno\Documents\GitHub\Curso-C-Sharp\comparando-o-maior-valor\bin\Debug\comparando-o-maior-valor.exe
+C:\Users\Si_Aluno\Documents\GitHub\Curso-C-Sharp\comparando-o-maior-valor\bin\Debug\comparando-o-maior-valor.pdb
+C:\Users\Si_Aluno\Documents\GitHub\Curso-C-Sharp\comparando-o-maior-valor\obj\Debug\comparando-o-maior-valor.csproj.AssemblyReference.cache
+C:\Users\Si_Aluno\Documents\GitHub\Curso-C-Sharp\comparando-o-maior-valor\obj\Debug\comparando-o-maior-valor.csproj.CoreCompileInputs.cache
+C:\Users\Si_Aluno\Documents\GitHub\Curso-C-Sharp\comparando-o-maior-valor\obj\Debug\comparando-o-maior-valor.exe
+C:\Users\Si_Aluno\Documents\GitHub\Curso-C-Sharp\comparando-o-maior-valor\obj\Debug\comparando-o-maior-valor.pdb
