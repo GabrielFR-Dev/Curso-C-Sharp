@@ -1,0 +1,7 @@
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Boletim-Aluno\bin\Debug\Boletim-Aluno.exe.config
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Boletim-Aluno\bin\Debug\Boletim-Aluno.exe
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Boletim-Aluno\bin\Debug\Boletim-Aluno.pdb
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Boletim-Aluno\obj\Debug\Boletim-Aluno.csproj.AssemblyReference.cache
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Boletim-Aluno\obj\Debug\Boletim-Aluno.csproj.CoreCompileInputs.cache
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Boletim-Aluno\obj\Debug\Boletim-Aluno.exe
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Boletim-Aluno\obj\Debug\Boletim-Aluno.pdb
