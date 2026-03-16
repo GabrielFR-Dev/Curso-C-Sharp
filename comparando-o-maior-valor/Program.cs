@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Principal;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -10,6 +11,7 @@ namespace comparando_o_maior_valor
     {
         static void Main(string[] args)
         {
+            /*
             double x, y, z;
 
             Console.Write("Digite o primeiro numero: ");
@@ -37,6 +39,30 @@ namespace comparando_o_maior_valor
                     {
                         Console.WriteLine("\nOs numeros são iguais");
                     }
+            */
+
+            // Comparador de senha
+
+            string senha, usuario;
+
+            Console.Write("Digite o usúario: ");
+            usuario = Console.ReadLine().ToString();
+
+            Console.Write("Digite a senha: ");
+            senha = Console.ReadLine();
+
+            if(usuario == "gabriel" && senha == "123a")
+            {
+                Console.WriteLine("\nLogin efetuado com sucesso");
+            }
+            else if(usuario == "" || senha == "")
+            {
+                Console.WriteLine("\nPreencha todas as informações");
+            }
+            else
+            {
+                Console.WriteLine("\nUsuario ou senha inválido!!");
+            }
             
         }
     }
