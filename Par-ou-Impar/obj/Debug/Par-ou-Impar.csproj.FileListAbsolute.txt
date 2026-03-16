@@ -1,0 +1,7 @@
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Par-ou-Impar\bin\Debug\Par-ou-Impar.exe.config
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Par-ou-Impar\bin\Debug\Par-ou-Impar.exe
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Par-ou-Impar\bin\Debug\Par-ou-Impar.pdb
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Par-ou-Impar\obj\Debug\Par-ou-Impar.csproj.AssemblyReference.cache
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Par-ou-Impar\obj\Debug\Par-ou-Impar.csproj.CoreCompileInputs.cache
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Par-ou-Impar\obj\Debug\Par-ou-Impar.exe
+C:\Users\MICRO\OneDrive\Documentos\GitHub\Curso-C-Sharp\Par-ou-Impar\obj\Debug\Par-ou-Impar.pdb
